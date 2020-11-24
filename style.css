@@ -32,7 +32,7 @@ body {
   background-color: rgb(226, 220, 220);
   border: 1px dashed #48a4b5;
   font-family: 'Courier New';
-  height: 200px;
+  height: fit-content;
   width: 10em;
   padding: 1em;
   margin-bottom: 1.1em;
